@@ -1,0 +1,15 @@
+venv
+.env
+ner_trained_model
+noshare
+intent_model
+trained_model
+*.pyc
+helper_docs
+document_question.ipynb
+intent_training.ipynb
+ner_exploration.ipynb
+ner_training.ipynb
+text_generation.ipynb
+translation.ipynb
+zero_shot.ipynb
