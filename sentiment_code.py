@@ -2,7 +2,7 @@ import multiprocessing
 import pandas as pd
 from transformers import pipeline
 
-MODEL = "nlptown/bert-base-multilingual-uncased-sentiment"
+MODEL = "Kaludi/Reviews-Sentiment-Analysis"
 df = pd.read_excel("ING_appstore_reviews.xlsx")
 
 def analyze_sentiment(args):
@@ -27,4 +27,4 @@ if __name__ == '__main__':
 
     df['label'], df['score'] = zip(*results)
 
-df.to_excel("ing.xlsx",index=False)
+df.to_excel("ing_sentiment_4.xlsx",index=False)

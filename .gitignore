@@ -12,4 +12,4 @@ ner_exploration.ipynb
 ner_training.ipynb
 text_generation.ipynb
 translation.ipynb
-zero_shot.ipynb
+sentiment_share.ipynb

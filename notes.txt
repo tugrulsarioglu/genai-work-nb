@@ -1,0 +1,23 @@
+2) Model başarısı ölçümü
+
+3) Model monitor
+
+4) Analiz 
+
+10) Tr / En -> models
+10-a) HG modelleri yeterli mi? Fine tune gereksinimi var mı?
+
+
+TO DO:
+
+OY: Herkese 100 tane varyasyon yüksek manual labelling; sadece text paylaş
+ÖY - CMU -> Literatür araştırma model başarı test
+TS: Literatür araştırma -> Monitoring
+
+OY: Haziran - Temmuz -> kırılımlar
+
+IDEA:
+    * user labeling feedback system
+
+Next meeting:
+    Ofiste haftaya
