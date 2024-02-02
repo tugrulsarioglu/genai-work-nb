@@ -21,3 +21,17 @@ IDEA:
 
 Next meeting:
     Ofiste haftaya
+
+
+
+----------------------
+01.02.2024
+
+İşbölümü exceli repo'da paylaş -> okan
+
+Metrics:
+    -MAE / RMSE / .. -> Can
+    -F1, Recall,... Classification metrics -> Okan
+    -Macro, Micro, -> Tuğrul
+    -Ordering target function -> İlayda
+    
